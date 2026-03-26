@@ -1,44 +1,28 @@
-# naohotu.kz
+The website of the hunting and fishing complex “Na Okhotu!” — a specialized countryside recreation project by the group of companies “Zarechye”.
 
-Сайт охотничьего и рыболовного комплекса **«На Охоту!»** — специализированного направления загородного отдыха от группы компаний **"Заречье"**.
+📌 About the Project
 
-## 📌 О проекте
+The goal of the project was to create an atmospheric, visually strong website with a focus on the premium segment, showcasing hunting, fishing, and accommodation experiences.
 
-Целью проекта было создание атмосферного, визуально сильного сайта с уклоном в премиум-сегмент, демонстрирующего условия охоты, рыбалки и проживания.
+The website serves as both an informational and promotional platform, combining the aesthetics of outdoor living, a simple structure, and feedback channels for fast user conversion.
 
-Сайт служит информационной и рекламной площадкой, объединяющей в себе эстетику outdoor-жизни, простую структуру и каналы обратной связи для быстрой конверсии пользователей.
-
-## 💼 Моя роль
-
-- Разработка концепции сайта и позиционирования бренда
-- Создание лендинга на **Tilda**
-- Подбор медиа-контента и написание текстов
-- SEO-оптимизация: скорость, заголовки, ключевые фразы, микроразметка
-- Настройка домена, привязка к хостингу
-- Интеграция аналитики и целей
-
-## 🛠️ Используемые технологии
-
-- **Tilda Publishing** (сайт построен на кастомных блоках Zero Block)
-- **HTML / CSS / JS** (расширенные настройки блоков)
-- **Plesk** (хостинг и доменное управление)
-- **Git + GitHub** (архивация и резервный контроль версий)
-
-## 🌐 Ссылки
-
-- 🔗 Сайт: [naohotu.kz](https://naohotu.kz)
-- 💻 Репозиторий: [GitHub](https://github.com/pavelSerebryannikov/naohotu.kz)
-
-## 📷 Скриншоты
-
-## 🔍 SEO и реклама
-
-- Оптимизирован под Яндекс и Google
-- Подключены UTM-метки
-- Настроена интеграция с рекламными кампаниями через Meta, Google и TikTok Ads
-
----
-
-## 📩 Контакты
-
-- 🧑‍💻 Автор: Павел Серебрянников  
+💼 My Role
+Development of the website concept and brand positioning
+Creation of a landing page on Tilda
+Media content selection and copywriting
+SEO optimization: speed, headings, keywords, microdata
+Domain setup and hosting configuration
+Analytics and goal tracking integration
+🛠️ Technologies Used
+Tilda Publishing (the site is built using custom Zero Block elements)
+HTML / CSS / JS (advanced block customization)
+Plesk (hosting and domain management)
+Git + GitHub (archiving and version control)
+🌐 Links
+🔗 Website: naohotu.kz
+💻 Repository: GitHub
+📷 Screenshots
+🔍 SEO & Advertising
+Optimized for Yandex and Google
+UTM tags implemented
+Integrated with advertising campaigns via Meta, Google, and TikTok Ads
